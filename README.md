@@ -15,6 +15,7 @@
 ## 📌 Índice
 
 - [Visão geral da proposta](#-visão-geral-da-proposta)
+- [Screenshots](#-screenshots)
 - [Funcionalidades](#-funcionalidades)
 - [Arquitetura e estrutura de pastas](#-arquitetura-e-estrutura-de-pastas)
 - [Tecnologias utilizadas](#-tecnologias-utilizadas)
@@ -35,6 +36,33 @@ O **Vortex Desapego** conecta essas duas pontas dentro do campus, incentivando a
 
 - **Landing Page (desktop):** apresenta a proposta, exibe estatísticas do sistema e uma vitrine pública com os últimos anúncios e filtros por categoria.
 - **App mobile (PWA):** experiência de aplicativo instalável, onde o usuário autenticado anuncia itens e gerencia seus próprios anúncios.
+
+---
+
+## 🖼 Screenshots
+
+### 💻 Desktop
+
+**Landing Page** — apresentação da proposta, estatísticas do sistema e vitrine com os últimos anúncios.
+
+![Landing Page no desktop](docs/screenshots/1-desktop-landing.png)
+
+<table>
+  <tr>
+    <td width="50%" valign="top"><b>Explorar a vitrine</b> — busca e filtros<br><br><img src="docs/screenshots/2-desktop-explorar.png" alt="Tela Explorar no desktop"></td>
+    <td width="50%" valign="top"><b>Detalhe do item</b> — modal com contato<br><br><img src="docs/screenshots/3-desktop-item-modal.png" alt="Modal de detalhe do item"></td>
+  </tr>
+</table>
+
+### 📱 Mobile (experiência de app / PWA)
+
+<table>
+  <tr>
+    <td width="33%" valign="top"><b>Início</b><br><br><img src="docs/screenshots/4-mobile-home.png" alt="Home no mobile com tab bar de app"></td>
+    <td width="33%" valign="top"><b>Anunciar item</b><br><br><img src="docs/screenshots/5-mobile-anunciar.png" alt="Formulário de anúncio no mobile"></td>
+    <td width="33%" valign="top"><b>Meus anúncios</b><br><br><img src="docs/screenshots/6-mobile-perfil.png" alt="Meus anúncios no mobile"></td>
+  </tr>
+</table>
 
 ---
 
