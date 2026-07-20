@@ -1,0 +1,17 @@
+{
+  "name": "vortex-desapego-frontend",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Frontend PWA (SPA responsiva) do Marketplace de Economia Circular do Campus (UNIFOR).",
+  "type": "module",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js",
+    "icons": "node scripts/generate-icons.mjs"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "author": "Candidato(a) Vortex 2026",
+  "license": "MIT"
+}

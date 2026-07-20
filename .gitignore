@@ -1,0 +1,21 @@
+# Dependências
+node_modules/
+**/node_modules/
+
+# Banco de dados SQLite (gerado em runtime; recriado pelo seed)
+backend/src/data/*.db
+backend/src/data/*.db-*
+
+# Variáveis de ambiente
+.env
+**/.env
+
+# Logs
+*.log
+npm-debug.log*
+
+# Sistema operacional / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/

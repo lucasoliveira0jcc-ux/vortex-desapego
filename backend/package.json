@@ -1,0 +1,30 @@
+{
+  "name": "vortex-desapego-backend",
+  "version": "1.0.0",
+  "private": true,
+  "description": "API RESTful do Marketplace de Economia Circular do Campus (Laboratório Vortex - UNIFOR)",
+  "type": "module",
+  "main": "src/server.js",
+  "engines": {
+    "node": ">=22.5.0"
+  },
+  "scripts": {
+    "start": "node --disable-warning=ExperimentalWarning src/server.js",
+    "dev": "node --disable-warning=ExperimentalWarning --watch src/server.js"
+  },
+  "keywords": [
+    "marketplace",
+    "economia-circular",
+    "unifor",
+    "vortex",
+    "rest-api"
+  ],
+  "author": "Candidato(a) Vortex 2026",
+  "license": "MIT",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "cors": "^2.8.5",
+    "express": "^4.19.2",
+    "jsonwebtoken": "^9.0.2"
+  }
+}
