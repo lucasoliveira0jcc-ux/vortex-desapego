@@ -319,11 +319,7 @@ Dois momentos em que precisei corrigir/guiar a IA:
 
 **Lucas Oliveira** — candidato ao estágio Full-Stack do Laboratório de Inovação **Vortex (UNIFOR, 2026)**.
 
-- 💼 GitHub: https://github.com/SEU-USUARIO
-- 🔗 LinkedIn: _(opcional)_
-- 📧 Contato: _(opcional)_
-
-> ℹ️ _Antes de publicar, confirme o nome acima e substitua `SEU-USUARIO` pelo seu usuário do GitHub._
+- 💼 GitHub: https://github.com/lucasoliveira0jcc-ux
 
 ---
 
