@@ -317,10 +317,13 @@ Dois momentos em que precisei corrigir/guiar a IA:
 
 ## 👤 Autor
 
-Desenvolvido por **[seu nome aqui]** para o Processo Seletivo do Laboratório de Inovação **Vortex — UNIFOR (2026)**.
+**Lucas Oliveira** — candidato ao estágio Full-Stack do Laboratório de Inovação **Vortex (UNIFOR, 2026)**.
 
-- 📧 Contato: _seu-email_
-- 💼 LinkedIn / GitHub: _seus-links_
+- 💼 GitHub: https://github.com/SEU-USUARIO
+- 🔗 LinkedIn: _(opcional)_
+- 📧 Contato: _(opcional)_
+
+> ℹ️ _Antes de publicar, confirme o nome acima e substitua `SEU-USUARIO` pelo seu usuário do GitHub._
 
 ---
 
